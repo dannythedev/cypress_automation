@@ -50,3 +50,6 @@ Tests navigate a website specified in `homepage.txt`, performing actions and ver
 3. Install Cypress using `npm install cypress` in terminal.
 4. Create `homepage.txt` in root directory with homepage URL.
 5. Run `test.spec.js` using `npx cypress run --spec "cypress/integration/test.spec.js"` in terminal.
+6. A successful test will appear as such:
+![image](https://github.com/dannythedev/cypress_automation/assets/99733108/e45d57b9-25b3-4fa1-bb85-43b1b7310622)
+
