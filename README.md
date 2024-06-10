@@ -45,7 +45,7 @@ Tests navigate a website specified in `homepage.txt`, performing actions and ver
 
 ## Running the Tests
 
-1. Clone this repository.
+1. Clone this repository. `git clone https://github.com/dannythedev/cypress_automation` in terminal.
 2. Make sure you are in the root directory of the repository. This is super important. You may need to write `cd .\cypress_automation\`.
 3. Install Cypress using `npm install cypress` in terminal.
 4. Create `homepage.txt` in root directory with homepage URL.
